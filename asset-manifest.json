@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jusshe/egr277-site/static/css/main.84a5e65b.css",
+    "main.js": "/jusshe/egr277-site/static/js/main.db367744.js",
+    "static/js/651.67771c67.chunk.js": "/jusshe/egr277-site/static/js/651.67771c67.chunk.js",
+    "static/media/employees.jpg": "/jusshe/egr277-site/static/media/employees.21e13ebf792609d4939d.jpg",
+    "static/media/urbanbizz.jpg": "/jusshe/egr277-site/static/media/urbanbizz.5db93e89ab5ef2f8379e.jpg",
+    "static/media/dad.jpg": "/jusshe/egr277-site/static/media/dad.9053a3f26f62f630f183.jpg",
+    "static/media/ceo.jpg": "/jusshe/egr277-site/static/media/ceo.b1237726eab7743d2b96.jpg",
+    "static/media/congress.jpg": "/jusshe/egr277-site/static/media/congress.c505ab5a19660da4c352.jpg",
+    "static/media/bottombar.png": "/jusshe/egr277-site/static/media/bottombar.0fcc29933af93c2608f3.png",
+    "static/media/zoom.jpeg": "/jusshe/egr277-site/static/media/zoom.79c0861c478a74cdb433.jpeg",
+    "index.html": "/jusshe/egr277-site/index.html",
+    "main.84a5e65b.css.map": "/jusshe/egr277-site/static/css/main.84a5e65b.css.map",
+    "main.db367744.js.map": "/jusshe/egr277-site/static/js/main.db367744.js.map",
+    "651.67771c67.chunk.js.map": "/jusshe/egr277-site/static/js/651.67771c67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84a5e65b.css",
+    "static/js/main.db367744.js"
+  ]
+}
